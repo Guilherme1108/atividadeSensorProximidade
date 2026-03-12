@@ -1,7 +1,7 @@
-﻿# Sensor de Aproximação
+# Sensor de Aproximação
 
 ## Objetivo do Projeto
-Este projeto foi desenvolvido durante as aulas de IIoT do curso de Desenvolvimento de Sistemas no SENAI, com a funcionalidade de aprendermos sobre senor de aproximação, o sensor consegue detectar se alguma coisa se aproximou, enviando uma mensagem se o ambiente está seguro ou há algum intruso detectado
+Este projeto foi desenvolvido durante as aulas de IIoT do curso de Desenvolvimento de Sistemas no SENAI, com o objetivo de aprendermos sobre o sensor de aproximação. O sensor consegue detectar se algo se aproximou, enviando uma mensagem informando se o ambiente está seguro ou se há algum intruso detectado.
 
 ## Funcionalidades
 **Verificação de aproximação** - O sensor faz verificações a cada 3 segundos. <br>
@@ -16,4 +16,3 @@ Este projeto foi desenvolvido durante as aulas de IIoT do curso de Desenvolvimen
 
 ## Demonstração
 [Vídeo de demonstração](https://youtube.com/shorts/o-6ypUWgYAY)
-
